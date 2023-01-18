@@ -47,9 +47,9 @@ public class Holiday
 	
 
 	Holiday call = new Holiday();
-	call.setName("instance");
-	call.setDay(14);
-	call.setMonth("july");
+	call.setName("Independance Day");
+	call.setDay(15);
+	call.setMonth("August");
 	System.out.println(call.getName());
 	System.out.println(call.getDay());
 	System.out.println(call.getMonth());
